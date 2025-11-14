@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="https://lingo.dev">
-    <img src="https://raw.githubusercontent.com/lingodotdev/lingo.dev/main/content/banner.compiler.png" width="100%" alt="Lingo.dev" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs.</strong>
+  <strong>⚡ Lingo-indica.dev adds Indic language assocaited featuresets to the original Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs.</strong>
 </p>
 
 <br />
