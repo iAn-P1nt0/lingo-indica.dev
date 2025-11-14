@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>⚡ Lingo-indica.dev adds Indic language assocaited featuresets to the original Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs.</strong>
+  <strong>⚡ lingo-indica.dev adds  Indic language features to OG Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Translation Engine. Comprehensive Indic language support for all 22 scheduled Indian languages - Indian numbering system formatting lakh/crore</strong>
 </p>
 
 <br />
