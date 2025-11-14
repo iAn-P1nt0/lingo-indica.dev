@@ -15,7 +15,7 @@ import { getDictionary } from "../core";
  *
  * @example Use in a Next.js (App Router) application
  * ```tsx file="app/layout.tsx"
- * import { LingoProvider, loadDictionary } from "lingo.dev/react/rsc";
+ * import { LingoProvider, loadDictionary } from "lingo-indica.dev/react/rsc";
  *
  * export default function RootLayout({
  *   children,

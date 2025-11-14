@@ -6,7 +6,7 @@ import {
   LocaleCode,
   resolveLocaleCode,
   bucketTypes,
-} from "@lingo.dev/_spec";
+} from "@lingo-indica.dev/_spec";
 import fs from "fs";
 import path from "path";
 import _ from "lodash";

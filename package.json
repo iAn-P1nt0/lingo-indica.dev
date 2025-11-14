@@ -1,5 +1,5 @@
 {
-  "name": "@lingo.dev",
+  "name": "@lingo-indica.dev",
   "type": "module",
   "scripts": {
     "prepare": "husky",

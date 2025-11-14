@@ -3,7 +3,7 @@ import { Listr } from "listr2";
 import { minimatch } from "minimatch";
 
 import { colors } from "../../constants";
-import { resolveOverriddenLocale } from "@lingo.dev/_spec";
+import { resolveOverriddenLocale } from "@lingo-indica.dev/_spec";
 import { getBuckets } from "../../utils/buckets";
 import { commonTaskRendererOptions } from "./_const";
 import { CmdRunContext } from "./_types";

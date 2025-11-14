@@ -1,6 +1,6 @@
 # Indic Language Features
 
-This document describes the comprehensive Indic language support added to the `@lingo.dev/_locales` package.
+This document describes the comprehensive Indic language support added to the `@lingo-indica.dev/_locales` package.
 
 ## Overview
 
@@ -49,7 +49,7 @@ import {
   getScriptDirection,
   hasNativeNumerals,
   INDIC_SCRIPT_INFO,
-} from "@lingo.dev/_locales";
+} from "@lingo-indica.dev/_locales";
 
 // Get primary script for a language
 getScriptForLanguage("hi"); // "Deva" (Devanagari)
@@ -81,7 +81,7 @@ Convert between Western Arabic numerals and native Indic numerals:
 import {
   toNativeNumerals,
   fromNativeNumerals,
-} from "@lingo.dev/_locales";
+} from "@lingo-indica.dev/_locales";
 
 // Convert TO native numerals
 toNativeNumerals(123, "hi");   // "१२३" (Hindi/Devanagari)
@@ -108,7 +108,7 @@ import {
   formatLakhs,
   formatCrores,
   autoFormatIndianNumber,
-} from "@lingo.dev/_locales";
+} from "@lingo-indica.dev/_locales";
 
 // Standard Indian number formatting
 formatIndianNumber(1000);        // "1,000"
@@ -141,7 +141,7 @@ autoFormatIndianNumber(50000000);   // "5.00 crores"
 Format dates according to Indian conventions:
 
 ```typescript
-import { formatIndianDate } from "@lingo.dev/_locales";
+import { formatIndianDate } from "@lingo-indica.dev/_locales";
 
 const date = new Date(2025, 9, 10); // October 10, 2025
 
@@ -242,7 +242,7 @@ import {
   formatIndianNumber,
   formatIndianDate,
   autoFormatIndianNumber,
-} from "@lingo.dev/_locales";
+} from "@lingo-indica.dev/_locales";
 
 const lang = "hi";
 const script = getScriptForLanguage(lang); // "Deva"
@@ -295,7 +295,7 @@ import type {
   IndicScriptCode,
   IndicScriptInfo,
   IndianDateFormatOptions,
-} from "@lingo.dev/_locales";
+} from "@lingo-indica.dev/_locales";
 
 const scriptCode: IndicScriptCode = "Deva";
 const scriptInfo: IndicScriptInfo = INDIC_SCRIPT_INFO[scriptCode];

@@ -1,4 +1,4 @@
-import { I18nConfig } from "@lingo.dev/_spec";
+import { I18nConfig } from "@lingo-indica.dev/_spec";
 
 import createLingoDotDevLocalizer from "./lingodotdev";
 import createExplicitLocalizer from "./explicit";

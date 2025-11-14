@@ -1,7 +1,7 @@
 {
-  "name": "lingo.dev",
+  "name": "lingo-indica.dev",
   "version": "0.111.9",
-  "description": "Lingo.dev CLI",
+  "description": "Lingo-Indica.dev CLI with comprehensive Indic language support",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -102,7 +102,8 @@
     }
   },
   "bin": {
-    "lingo.dev": "./bin/cli.mjs"
+    "lingo-indica.dev": "./bin/cli.mjs",
+    "lingo-indica": "./bin/cli.mjs"
   },
   "files": [
     "bin",
@@ -110,7 +111,7 @@
     "assets"
   ],
   "scripts": {
-    "lingo.dev": "node --inspect=9229 ./bin/cli.mjs",
+    "lingo-indica.dev": "node --inspect=9229 ./bin/cli.mjs",
     "dev": "tsup --watch",
     "build": "pnpm typecheck && tsup",
     "typecheck": "tsc --noEmit",
@@ -134,11 +135,11 @@
     "@gitbeaker/rest": "^39.34.3",
     "@inkjs/ui": "^2.0.0",
     "@inquirer/prompts": "^7.8.0",
-    "@lingo.dev/_compiler": "workspace:*",
-    "@lingo.dev/_locales": "workspace:*",
-    "@lingo.dev/_react": "workspace:*",
-    "@lingo.dev/_sdk": "workspace:*",
-    "@lingo.dev/_spec": "workspace:*",
+    "@lingo-indica.dev/_compiler": "workspace:*",
+    "@lingo-indica.dev/_locales": "workspace:*",
+    "@lingo-indica.dev/_react": "workspace:*",
+    "@lingo-indica.dev/_sdk": "workspace:*",
+    "@lingo-indica.dev/_spec": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.5.0",
     "@openrouter/ai-sdk-provider": "^0.7.1",
     "@paralleldrive/cuid2": "^2.2.2",

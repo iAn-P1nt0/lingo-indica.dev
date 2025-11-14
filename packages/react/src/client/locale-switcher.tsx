@@ -30,7 +30,7 @@ export type LocaleSwitcherProps = {
  *
  * @example Creating a locale switcher
  * ```tsx
- * import { LocaleSwitcher } from "lingo.dev/react/client";
+ * import { LocaleSwitcher } from "lingo-indica.dev/react/client";
  *
  * export function App() {
  *   return (

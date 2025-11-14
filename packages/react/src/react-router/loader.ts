@@ -15,8 +15,8 @@ import { LOCALE_COOKIE_NAME, getDictionary } from "../core";
  *
  * @example Use in a React Router application
  * ```tsx
- * import { LingoProvider } from "lingo.dev/react/client";
- * import { loadDictionary } from "lingo.dev/react/react-router";
+ * import { LingoProvider } from "lingo-indica.dev/react/client";
+ * import { loadDictionary } from "lingo-indica.dev/react/react-router";
  * import {
  *   Links,
  *   Meta,

@@ -1,7 +1,7 @@
 {
-  "name": "@lingo.dev/_sdk",
+  "name": "@lingo-indica.dev/_sdk",
   "version": "0.12.2",
-  "description": "Lingo.dev JS SDK",
+  "description": "Lingo-Indica.dev JS SDK with Indic language support",
   "private": false,
   "publishConfig": {
     "access": "public"
@@ -24,7 +24,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@lingo.dev/_spec": "workspace:*",
+    "@lingo-indica.dev/_spec": "workspace:*",
     "@paralleldrive/cuid2": "^2.2.2",
     "jsdom": "^25.0.1",
     "zod": "^3.25.76"

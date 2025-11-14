@@ -32,8 +32,8 @@ Make lingo.dev the **best-in-class i18n toolkit for Indic languages**, supportin
 - Comprehensive documentation
 
 **Packages:**
-- `@lingo.dev/_spec` - Locale definitions
-- `@lingo.dev/_locales` - Locale utilities and Indic features
+- `@lingo-indica.dev/_spec` - Locale definitions
+- `@lingo-indica.dev/_locales` - Locale utilities and Indic features
 
 ---
 

@@ -1,7 +1,7 @@
 import { describe, it, expect } from "vitest";
 import fs from "fs";
 import path from "path";
-import { bucketTypes, parseI18nConfig } from "@lingo.dev/_spec";
+import { bucketTypes, parseI18nConfig } from "@lingo-indica.dev/_spec";
 
 type BucketType = (typeof bucketTypes)[number];
 

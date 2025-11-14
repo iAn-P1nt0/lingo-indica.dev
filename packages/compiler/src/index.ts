@@ -165,7 +165,7 @@ export default {
    *
    * @example Configuration for Next.js's default template
    * ```ts
-   * import lingoCompiler from "lingo.dev/compiler";
+   * import lingoCompiler from "lingo-indica.dev/compiler";
    * import type { NextConfig } from "next";
    *
    * const nextConfig: NextConfig = {
@@ -284,7 +284,7 @@ export default {
    * ```ts
    * import { defineConfig, type UserConfig } from "vite";
    * import react from "@vitejs/plugin-react";
-   * import lingoCompiler from "lingo.dev/compiler";
+   * import lingoCompiler from "lingo-indica.dev/compiler";
    *
    * // https://vite.dev/config/
    * const viteConfig: UserConfig = {
@@ -302,7 +302,7 @@ export default {
    * ```ts
    * import { reactRouter } from "@react-router/dev/vite";
    * import tailwindcss from "@tailwindcss/vite";
-   * import lingoCompiler from "lingo.dev/compiler";
+   * import lingoCompiler from "lingo-indica.dev/compiler";
    * import { defineConfig, type UserConfig } from "vite";
    * import tsconfigPaths from "vite-tsconfig-paths";
    *

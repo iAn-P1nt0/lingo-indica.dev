@@ -8,7 +8,7 @@ import { LOCALE_HEADER_NAME, LOCALE_COOKIE_NAME } from "../core";
  *
  * @example Get locale from headers in a server component
  * ```typescript
- * import { loadLocaleFromHeaders } from "lingo.dev/react/rsc";
+ * import { loadLocaleFromHeaders } from "lingo-indica.dev/react/rsc";
  *
  * export default async function ServerComponent() {
  *   const locale = await loadLocaleFromHeaders();
@@ -29,7 +29,7 @@ export async function loadLocaleFromHeaders() {
  *
  * @example Get locale from cookies in a server component
  * ```typescript
- * import { loadLocaleFromCookies } from "lingo.dev/react/rsc";
+ * import { loadLocaleFromCookies } from "lingo-indica.dev/react/rsc";
  *
  * export default async function ServerComponent() {
  *   const locale = await loadLocaleFromCookies();
@@ -50,7 +50,7 @@ export async function loadLocaleFromCookies() {
  *
  * @example Set locale in a server action
  * ```typescript
- * import { setLocaleInCookies } from "lingo.dev/react/rsc";
+ * import { setLocaleInCookies } from "lingo-indica.dev/react/rsc";
  *
  * export async function changeLocale(locale: string) {
  *   "use server";
@@ -75,7 +75,7 @@ export async function setLocaleInCookies(locale: string) {
  *
  * @example Load dictionary from request in a server component
  * ```typescript
- * import { loadDictionaryFromRequest, loadDictionary } from "lingo.dev/react/rsc";
+ * import { loadDictionaryFromRequest, loadDictionary } from "lingo-indica.dev/react/rsc";
  *
  * export default async function ServerComponent() {
  *   const dictionary = await loadDictionaryFromRequest(loadDictionary);

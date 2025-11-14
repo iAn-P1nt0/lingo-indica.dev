@@ -1,7 +1,7 @@
 {
   "name": "replexica",
   "version": "0.71.0",
-  "description": "[DEPRECATED] Replexica CLI (now Lingo.dev) - Please use lingo.dev instead",
+  "description": "[DEPRECATED] Replexica CLI (now Lingo-Indica.dev) - Please use lingo-indica.dev instead",
   "private": false,
   "type": "module",
   "sideEffects": false,
@@ -22,7 +22,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "lingo.dev": "*"
+    "lingo-indica.dev": "workspace:*"
   },
-  "deprecated": "Replexica is now Lingo.dev! Please use our new CLI package by running: npx lingo.dev@latest. Visit https://lingo.dev for the latest features and documentation."
+  "deprecated": "Replexica is now Lingo-Indica.dev! Please use our new CLI package by running: npx lingo-indica.dev@latest. Visit https://github.com/iAn-P1nt0/lingo-indica.dev for the latest features and documentation."
 }

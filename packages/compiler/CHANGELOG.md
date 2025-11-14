@@ -1,20 +1,20 @@
-# @lingo.dev/\_compiler
+# @lingo-indica.dev/\_compiler
 
 ## 0.7.9
 
 ### Patch Changes
 
 - Updated dependencies [[`6579d70`](https://github.com/lingodotdev/lingo.dev/commit/6579d70bc670c2fdc06c09842d931b07e134151c)]:
-  - @lingo.dev/_spec@0.40.2
-  - @lingo.dev/_sdk@0.12.2
+  - @lingo-indica.dev/_spec@0.40.2
+  - @lingo-indica.dev/_sdk@0.12.2
 
 ## 0.7.8
 
 ### Patch Changes
 
 - Updated dependencies [[`a35032e`](https://github.com/lingodotdev/lingo.dev/commit/a35032e7e7a188d1f5e774576352068124526e24)]:
-  - @lingo.dev/_spec@0.40.1
-  - @lingo.dev/_sdk@0.12.1
+  - @lingo-indica.dev/_spec@0.40.1
+  - @lingo-indica.dev/_sdk@0.12.1
 
 ## 0.7.7
 
@@ -47,15 +47,15 @@
 ### Patch Changes
 
 - Updated dependencies [[`6af91a0`](https://github.com/lingodotdev/lingo.dev/commit/6af91a083d16f85051fb49a4034789abe784017e), [`6af91a0`](https://github.com/lingodotdev/lingo.dev/commit/6af91a083d16f85051fb49a4034789abe784017e)]:
-  - @lingo.dev/_spec@0.40.0
-  - @lingo.dev/_sdk@0.12.0
+  - @lingo-indica.dev/_spec@0.40.0
+  - @lingo-indica.dev/_sdk@0.12.0
 
 ## 0.7.2
 
 ### Patch Changes
 
 - Updated dependencies [[`85dfc10`](https://github.com/lingodotdev/lingo.dev/commit/85dfc10961b116e31b2bb478f42013756ca49974)]:
-  - @lingo.dev/_sdk@0.11.0
+  - @lingo-indica.dev/_sdk@0.11.0
 
 ## 0.7.1
 
@@ -79,8 +79,8 @@
 ### Patch Changes
 
 - Updated dependencies [[`afbb978`](https://github.com/lingodotdev/lingo.dev/commit/afbb978fec83d574f2c43b7d68457e435fca9b57)]:
-  - @lingo.dev/_spec@0.39.3
-  - @lingo.dev/_sdk@0.10.2
+  - @lingo-indica.dev/_spec@0.39.3
+  - @lingo-indica.dev/_sdk@0.10.2
 
 ## 0.6.2
 
@@ -89,8 +89,8 @@
 - [#1023](https://github.com/lingodotdev/lingo.dev/pull/1023) [`9266fd0`](https://github.com/lingodotdev/lingo.dev/commit/9266fd0bcddf4b07ca51d2609af92a9473106f9d) Thanks [@devin-ai-integration](https://github.com/apps/devin-ai-integration)! - Update Zod dependency to version 3.25.76
 
 - Updated dependencies [[`9266fd0`](https://github.com/lingodotdev/lingo.dev/commit/9266fd0bcddf4b07ca51d2609af92a9473106f9d)]:
-  - @lingo.dev/_spec@0.39.2
-  - @lingo.dev/_sdk@0.10.1
+  - @lingo-indica.dev/_spec@0.39.2
+  - @lingo-indica.dev/_sdk@0.10.1
 
 ## 0.6.1
 
@@ -107,7 +107,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`cb2aa0f`](https://github.com/lingodotdev/lingo.dev/commit/cb2aa0f505d6b7dbc435b526e8a6f62265d1f453)]:
-  - @lingo.dev/_sdk@0.10.0
+  - @lingo-indica.dev/_sdk@0.10.0
 
 ## 0.5.5
 
@@ -126,14 +126,14 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @lingo.dev/_sdk@0.9.6
+  - @lingo-indica.dev/_sdk@0.9.6
 
 ## 0.5.2
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @lingo.dev/_sdk@0.9.5
+  - @lingo-indica.dev/_sdk@0.9.5
 
 ## 0.5.1
 
@@ -155,14 +155,14 @@
 ### Patch Changes
 
 - Updated dependencies []:
-  - @lingo.dev/_sdk@0.9.4
+  - @lingo-indica.dev/_sdk@0.9.4
 
 ## 0.4.1
 
 ### Patch Changes
 
 - Updated dependencies []:
-  - @lingo.dev/_sdk@0.9.3
+  - @lingo-indica.dev/_sdk@0.9.3
 
 ## 0.4.0
 
@@ -183,7 +183,7 @@
 - [#937](https://github.com/lingodotdev/lingo.dev/pull/937) [`4e5983d`](https://github.com/lingodotdev/lingo.dev/commit/4e5983d7e59ebf9eb529c4b7c1c87689432ac873) Thanks [@devin-ai-integration](https://github.com/apps/devin-ai-integration)! - Update documentation URLs from docs.lingo.dev to lingo.dev/cli and lingo.dev/compiler
 
 - Updated dependencies [[`4e5983d`](https://github.com/lingodotdev/lingo.dev/commit/4e5983d7e59ebf9eb529c4b7c1c87689432ac873)]:
-  - @lingo.dev/_sdk@0.9.2
+  - @lingo-indica.dev/_sdk@0.9.2
 
 ## 0.3.3
 
@@ -216,7 +216,7 @@
 - [#925](https://github.com/lingodotdev/lingo.dev/pull/925) [`215af19`](https://github.com/lingodotdev/lingo.dev/commit/215af1944667cce66e9c5966f4fb627186687b74) Thanks [@maxprilutskiy](https://github.com/maxprilutskiy)! - improved compiler concurrency, caching, added lingo.dev engine to the compiler, and updated demo apps
 
 - Updated dependencies []:
-  - @lingo.dev/_sdk@0.9.1
+  - @lingo-indica.dev/_sdk@0.9.1
 
 ## 0.2.4
 

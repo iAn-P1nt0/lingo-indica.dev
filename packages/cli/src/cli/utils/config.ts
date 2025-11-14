@@ -1,7 +1,7 @@
 import _ from "lodash";
 import fs from "fs";
 import path from "path";
-import { I18nConfig, parseI18nConfig } from "@lingo.dev/_spec";
+import { I18nConfig, parseI18nConfig } from "@lingo-indica.dev/_spec";
 
 export function getConfig(resave = true): I18nConfig | null {
   const configFilePath = _getConfigFilePath();

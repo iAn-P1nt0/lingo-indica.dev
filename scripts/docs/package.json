@@ -11,7 +11,7 @@
     "test:coverage": "vitest run --coverage"
   },
   "devDependencies": {
-    "@lingo.dev/_spec": "workspace:*",
+    "@lingo-indica.dev/_spec": "workspace:*",
     "@octokit/rest": "^20.1.2",
     "@types/mdast": "^4.0.4",
     "@types/node": "^24.0.10",

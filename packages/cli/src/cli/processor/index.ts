@@ -1,4 +1,4 @@
-import { I18nConfig } from "@lingo.dev/_spec";
+import { I18nConfig } from "@lingo-indica.dev/_spec";
 import chalk from "chalk";
 import dedent from "dedent";
 import { LocalizerFn } from "./_base";

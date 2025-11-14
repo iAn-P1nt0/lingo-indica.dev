@@ -1,4 +1,4 @@
-# @lingo.dev/\_react
+# @lingo-indica.dev/\_react
 
 ## 0.5.0
 

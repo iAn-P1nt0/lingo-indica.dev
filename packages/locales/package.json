@@ -1,7 +1,7 @@
 {
-  "name": "@lingo.dev/_locales",
+  "name": "@lingo-indica.dev/_locales",
   "version": "0.1.0",
-  "description": "Lingo.dev locales",
+  "description": "Lingo-Indica.dev locales with comprehensive Indic language support",
   "private": false,
   "publishConfig": {
     "access": "public"

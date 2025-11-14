@@ -1,4 +1,4 @@
-import { I18nConfig } from "@lingo.dev/_spec";
+import { I18nConfig } from "@lingo-indica.dev/_spec";
 
 export type LocalizerData = {
   sourceLocale: string;

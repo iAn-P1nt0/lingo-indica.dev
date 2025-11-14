@@ -1,6 +1,6 @@
 import Z from "zod";
 import jsdom from "jsdom";
-import { bucketTypeSchema } from "@lingo.dev/_spec";
+import { bucketTypeSchema } from "@lingo-indica.dev/_spec";
 import { composeLoaders } from "./_utils";
 import createJsonLoader from "./json";
 import createJson5Loader from "./json5";

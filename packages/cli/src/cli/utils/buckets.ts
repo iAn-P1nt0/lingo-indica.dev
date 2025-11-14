@@ -7,8 +7,8 @@ import {
   resolveOverriddenLocale,
   BucketItem,
   LocaleDelimiter,
-} from "@lingo.dev/_spec";
-import { bucketTypeSchema } from "@lingo.dev/_spec";
+} from "@lingo-indica.dev/_spec";
+import { bucketTypeSchema } from "@lingo-indica.dev/_spec";
 import Z from "zod";
 
 type BucketConfig = {

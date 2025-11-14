@@ -17,7 +17,7 @@ import { getDictionary } from "../core";
  * ```tsx
  * import React from "react";
  * import ReactDOM from "react-dom/client";
- * import { LingoProviderWrapper, loadDictionary } from "lingo.dev/react/client";
+ * import { LingoProviderWrapper, loadDictionary } from "lingo-indica.dev/react/client";
  * import { App } from "./App.tsx";
  *
  * ReactDOM.createRoot(document.getElementById("root")!).render(

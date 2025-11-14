@@ -122,12 +122,12 @@
 **Before committing:**
 ```bash
 # Run these commands to verify quality
-pnpm --filter @lingo.dev/_spec typecheck
-pnpm --filter @lingo.dev/_locales typecheck
-pnpm --filter @lingo.dev/_spec test
-pnpm --filter @lingo.dev/_locales test
-pnpm --filter @lingo.dev/_spec build
-pnpm --filter @lingo.dev/_locales build
+pnpm --filter @lingo-indica.dev/_spec typecheck
+pnpm --filter @lingo-indica.dev/_locales typecheck
+pnpm --filter @lingo-indica.dev/_spec test
+pnpm --filter @lingo-indica.dev/_locales test
+pnpm --filter @lingo-indica.dev/_spec build
+pnpm --filter @lingo-indica.dev/_locales build
 ```
 
 ### 📚 Key Resources

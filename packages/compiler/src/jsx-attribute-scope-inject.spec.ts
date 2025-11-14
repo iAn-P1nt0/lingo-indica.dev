@@ -34,7 +34,7 @@ describe("lingoJsxAttributeScopeInjectMutation", () => {
     `.trim();
 
       const expected = `
-    import { LingoAttributeComponent } from "lingo.dev/react/client";
+    import { LingoAttributeComponent } from "lingo-indica.dev/react/client";
     function Component() {
     return <div>
     <LingoAttributeComponent 
@@ -65,7 +65,7 @@ describe("lingoJsxAttributeScopeInjectMutation", () => {
     `.trim();
 
       const expected = `
-    import { LingoAttributeComponent, loadDictionary } from "lingo.dev/react/rsc";
+    import { LingoAttributeComponent, loadDictionary } from "lingo-indica.dev/react/rsc";
     function Component() {
       return <div>
         <LingoAttributeComponent
@@ -99,7 +99,7 @@ describe("lingoJsxAttributeScopeInjectMutation", () => {
     `.trim();
 
       const expected = `
-    import { LingoAttributeComponent } from "lingo.dev/react/client";
+    import { LingoAttributeComponent } from "lingo-indica.dev/react/client";
     function Component() {
       return <div>
         <LingoAttributeComponent
@@ -134,7 +134,7 @@ describe("lingoJsxAttributeScopeInjectMutation", () => {
     `.trim();
 
       const expected = `
-    import { LingoAttributeComponent } from "lingo.dev/react/client";
+    import { LingoAttributeComponent } from "lingo-indica.dev/react/client";
     function Component({ url, accessibilityLabel }) {
       return <div>
         <LingoAttributeComponent

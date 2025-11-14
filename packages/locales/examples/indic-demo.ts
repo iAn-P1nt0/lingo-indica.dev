@@ -2,7 +2,7 @@
  * Indic Language Features Demo
  *
  * This file demonstrates the comprehensive Indic language support
- * added to @lingo.dev/_locales package.
+ * added to @lingo-indica.dev/_locales package.
  */
 
 import {

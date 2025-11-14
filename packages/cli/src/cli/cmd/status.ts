@@ -3,7 +3,7 @@ import {
   I18nConfig,
   localeCodeSchema,
   resolveOverriddenLocale,
-} from "@lingo.dev/_spec";
+} from "@lingo-indica.dev/_spec";
 import { Command } from "interactive-commander";
 import Z from "zod";
 import _ from "lodash";

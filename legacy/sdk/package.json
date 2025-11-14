@@ -1,7 +1,7 @@
 {
   "name": "@replexica/sdk",
   "version": "0.7.11",
-  "description": "[DEPRECATED] Replexica SDK (now Lingo.dev) - Please use lingo.dev instead",
+  "description": "[DEPRECATED] Replexica SDK (now Lingo-Indica.dev) - Please use lingo-indica.dev instead",
   "private": false,
   "type": "module",
   "sideEffects": false,
@@ -16,7 +16,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "lingo.dev": "*"
+    "lingo-indica.dev": "workspace:*"
   },
-  "deprecated": "Replexica is now Lingo.dev! Please use our new SDK package by running: npm install lingo.dev. Visit https://lingo.dev for the latest features and documentation."
+  "deprecated": "Replexica is now Lingo-Indica.dev! Please use our new SDK package by running: npm install lingo-indica.dev. Visit https://github.com/iAn-P1nt0/lingo-indica.dev for the latest features and documentation."
 }

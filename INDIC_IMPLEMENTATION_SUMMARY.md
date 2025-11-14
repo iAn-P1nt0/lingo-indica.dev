@@ -150,8 +150,8 @@ All utilities fully typed with TypeScript:
 ## Build & Test Results
 
 ✅ **All builds successful:**
-- `@lingo.dev/_spec` - Compiled with no errors
-- `@lingo.dev/_locales` - Compiled with no errors
+- `@lingo-indica.dev/_spec` - Compiled with no errors
+- `@lingo-indica.dev/_locales` - Compiled with no errors
 
 ✅ **All tests passing:**
 - Spec package: 21/21 tests passed

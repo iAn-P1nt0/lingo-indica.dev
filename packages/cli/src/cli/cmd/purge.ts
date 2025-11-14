@@ -3,7 +3,7 @@ import _ from "lodash";
 import Ora from "ora";
 import { getConfig } from "../utils/config";
 import { getBuckets } from "../utils/buckets";
-import { resolveOverriddenLocale } from "@lingo.dev/_spec";
+import { resolveOverriddenLocale } from "@lingo-indica.dev/_spec";
 import createBucketLoader from "../loaders";
 import { minimatch } from "minimatch";
 import { confirm } from "@inquirer/prompts";

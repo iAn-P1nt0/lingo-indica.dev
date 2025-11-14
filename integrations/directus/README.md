@@ -161,4 +161,4 @@ This will start Directus at [http://localhost:8055](http://localhost:8055).
 For questions and support:
 
 - [Lingo.dev Discord](https://lingo.dev/go/discord)
-- Email: <veronica@lingo.dev>
+- Email: <veronica@lingo-indica.dev>

@@ -2,7 +2,7 @@ import dedent from "dedent";
 import { ILocalizer, LocalizerData } from "./_types";
 import chalk from "chalk";
 import { colors } from "../constants";
-import { LingoDotDevEngine } from "@lingo.dev/_sdk";
+import { LingoDotDevEngine } from "@lingo-indica.dev/_sdk";
 import { getSettings } from "../utils/settings";
 
 export default function createLingoDotDevLocalizer(

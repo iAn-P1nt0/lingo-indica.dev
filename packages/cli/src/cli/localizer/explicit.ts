@@ -3,7 +3,7 @@ import { createGoogleGenerativeAI } from "@ai-sdk/google";
 import { createOpenAI } from "@ai-sdk/openai";
 import { createOpenRouter } from "@openrouter/ai-sdk-provider";
 import { createMistral } from "@ai-sdk/mistral";
-import { I18nConfig } from "@lingo.dev/_spec";
+import { I18nConfig } from "@lingo-indica.dev/_spec";
 import chalk from "chalk";
 import dedent from "dedent";
 import { ILocalizer, LocalizerData } from "./_types";

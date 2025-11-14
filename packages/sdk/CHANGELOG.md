@@ -1,18 +1,18 @@
-# @lingo.dev/\_sdk
+# @lingo-indica.dev/\_sdk
 
 ## 0.12.2
 
 ### Patch Changes
 
 - Updated dependencies [[`6579d70`](https://github.com/lingodotdev/lingo.dev/commit/6579d70bc670c2fdc06c09842d931b07e134151c)]:
-  - @lingo.dev/_spec@0.40.2
+  - @lingo-indica.dev/_spec@0.40.2
 
 ## 0.12.1
 
 ### Patch Changes
 
 - Updated dependencies [[`a35032e`](https://github.com/lingodotdev/lingo.dev/commit/a35032e7e7a188d1f5e774576352068124526e24)]:
-  - @lingo.dev/_spec@0.40.1
+  - @lingo-indica.dev/_spec@0.40.1
 
 ## 0.12.0
 
@@ -23,7 +23,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`6af91a0`](https://github.com/lingodotdev/lingo.dev/commit/6af91a083d16f85051fb49a4034789abe784017e)]:
-  - @lingo.dev/_spec@0.40.0
+  - @lingo-indica.dev/_spec@0.40.0
 
 ## 0.11.0
 
@@ -40,7 +40,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`afbb978`](https://github.com/lingodotdev/lingo.dev/commit/afbb978fec83d574f2c43b7d68457e435fca9b57)]:
-  - @lingo.dev/_spec@0.39.3
+  - @lingo-indica.dev/_spec@0.39.3
 
 ## 0.10.1
 
@@ -49,7 +49,7 @@
 - [#1023](https://github.com/lingodotdev/lingo.dev/pull/1023) [`9266fd0`](https://github.com/lingodotdev/lingo.dev/commit/9266fd0bcddf4b07ca51d2609af92a9473106f9d) Thanks [@devin-ai-integration](https://github.com/apps/devin-ai-integration)! - Update Zod dependency to version 3.25.76
 
 - Updated dependencies [[`9266fd0`](https://github.com/lingodotdev/lingo.dev/commit/9266fd0bcddf4b07ca51d2609af92a9473106f9d)]:
-  - @lingo.dev/_spec@0.39.2
+  - @lingo-indica.dev/_spec@0.39.2
 
 ## 0.10.0
 
@@ -62,28 +62,28 @@
 ### Patch Changes
 
 - Updated dependencies [[`acd5356`](https://github.com/lingodotdev/lingo.dev/commit/acd5356b68d2261576240c173fea790864c3c31d)]:
-  - @lingo.dev/_spec@0.39.1
+  - @lingo-indica.dev/_spec@0.39.1
 
 ## 0.9.5
 
 ### Patch Changes
 
 - Updated dependencies [[`f644123`](https://github.com/lingodotdev/lingo.dev/commit/f644123ddf6a6254790d08af50141e4dd78c3677)]:
-  - @lingo.dev/_spec@0.39.0
+  - @lingo-indica.dev/_spec@0.39.0
 
 ## 0.9.4
 
 ### Patch Changes
 
 - Updated dependencies [[`84fd214`](https://github.com/lingodotdev/lingo.dev/commit/84fd214a21766e7683c5d645fcb8c4c0162eb0b6)]:
-  - @lingo.dev/_spec@0.38.0
+  - @lingo-indica.dev/_spec@0.38.0
 
 ## 0.9.3
 
 ### Patch Changes
 
 - Updated dependencies [[`ce8c75c`](https://github.com/lingodotdev/lingo.dev/commit/ce8c75c7fc1a2124d3e18444bc356c4dfce26434)]:
-  - @lingo.dev/_spec@0.37.0
+  - @lingo-indica.dev/_spec@0.37.0
 
 ## 0.9.2
 
@@ -96,7 +96,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`1b9b113`](https://github.com/lingodotdev/lingo.dev/commit/1b9b11301978e8caa2555832d027ff93216aa6e1), [`0329a9c`](https://github.com/lingodotdev/lingo.dev/commit/0329a9cdb5e5a63fcecab4efcd7cce22f155a0e9)]:
-  - @lingo.dev/_spec@0.36.0
+  - @lingo-indica.dev/_spec@0.36.0
 
 ## 0.9.0
 
@@ -111,7 +111,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`a5da697`](https://github.com/lingodotdev/lingo.dev/commit/a5da697f7efd46de31d17b202d06eb5f655ed9b9)]:
-  - @lingo.dev/_spec@0.35.0
+  - @lingo-indica.dev/_spec@0.35.0
 
 ## 0.8.0
 
@@ -122,14 +122,14 @@
 ### Patch Changes
 
 - Updated dependencies [[`e980e84`](https://github.com/lingodotdev/lingo.dev/commit/e980e84178439ad70417d38b425acf9148cfc4b6)]:
-  - @lingo.dev/_spec@0.34.0
+  - @lingo-indica.dev/_spec@0.34.0
 
 ## 0.7.43
 
 ### Patch Changes
 
 - Updated dependencies [[`0272fbf`](https://github.com/lingodotdev/lingo.dev/commit/0272fbf8847240ed9453130237d5843b918f869f)]:
-  - @lingo.dev/_spec@0.33.3
+  - @lingo-indica.dev/_spec@0.33.3
 
 ## 0.7.42
 
@@ -138,35 +138,35 @@
 - [#782](https://github.com/lingodotdev/lingo.dev/pull/782) [`d913c20`](https://github.com/lingodotdev/lingo.dev/commit/d913c20fdf0086741c8b50fd4ddfb38eae304a24) Thanks [@maxprilutskiy](https://github.com/maxprilutskiy)! - parallel processing
 
 - Updated dependencies [[`d913c20`](https://github.com/lingodotdev/lingo.dev/commit/d913c20fdf0086741c8b50fd4ddfb38eae304a24)]:
-  - @lingo.dev/_spec@0.33.2
+  - @lingo-indica.dev/_spec@0.33.2
 
 ## 0.7.41
 
 ### Patch Changes
 
 - Updated dependencies [[`3f2aba9`](https://github.com/lingodotdev/lingo.dev/commit/3f2aba9c1d5834faf89a26194f1f3d9f9b878d40)]:
-  - @lingo.dev/_spec@0.33.1
+  - @lingo-indica.dev/_spec@0.33.1
 
 ## 0.7.40
 
 ### Patch Changes
 
 - Updated dependencies [[`9aa7004`](https://github.com/lingodotdev/lingo.dev/commit/9aa700491446865dc131b80419f681132b888652)]:
-  - @lingo.dev/_spec@0.33.0
+  - @lingo-indica.dev/_spec@0.33.0
 
 ## 0.7.39
 
 ### Patch Changes
 
 - Updated dependencies [[`5170449`](https://github.com/lingodotdev/lingo.dev/commit/517044905dfc682d6a5fa95b0605b8715e2b72c7)]:
-  - @lingo.dev/_spec@0.32.0
+  - @lingo-indica.dev/_spec@0.32.0
 
 ## 0.7.38
 
 ### Patch Changes
 
 - Updated dependencies [[`c5ccf81`](https://github.com/lingodotdev/lingo.dev/commit/c5ccf81e9c2bd27bae332306da2a41e41bbeb87d)]:
-  - @lingo.dev/_spec@0.31.0
+  - @lingo-indica.dev/_spec@0.31.0
 
 ## 0.7.37
 
@@ -175,7 +175,7 @@
 - [#649](https://github.com/lingodotdev/lingo.dev/pull/649) [`409018d`](https://github.com/lingodotdev/lingo.dev/commit/409018de74614a1fd99363c6749b0e4be9e1a278) Thanks [@mathio](https://github.com/mathio)! - refactor dependencies
 
 - Updated dependencies [[`409018d`](https://github.com/lingodotdev/lingo.dev/commit/409018de74614a1fd99363c6749b0e4be9e1a278)]:
-  - @lingo.dev/_spec@0.30.3
+  - @lingo-indica.dev/_spec@0.30.3
 
 ## 0.7.36
 
@@ -184,7 +184,7 @@
 - [#647](https://github.com/lingodotdev/lingo.dev/pull/647) [`235b6d9`](https://github.com/lingodotdev/lingo.dev/commit/235b6d914c5f542ee5f1a8a88085cfd9dea5409e) Thanks [@mathio](https://github.com/mathio)! - update vitest
 
 - Updated dependencies [[`235b6d9`](https://github.com/lingodotdev/lingo.dev/commit/235b6d914c5f542ee5f1a8a88085cfd9dea5409e)]:
-  - @lingo.dev/_spec@0.30.2
+  - @lingo-indica.dev/_spec@0.30.2
 
 ## 0.7.35
 
@@ -193,42 +193,42 @@
 - [#645](https://github.com/lingodotdev/lingo.dev/pull/645) [`d824b10`](https://github.com/lingodotdev/lingo.dev/commit/d824b106631f45fc428cf01f733aab4842b4fa81) Thanks [@mathio](https://github.com/mathio)! - update dependencies
 
 - Updated dependencies [[`d824b10`](https://github.com/lingodotdev/lingo.dev/commit/d824b106631f45fc428cf01f733aab4842b4fa81)]:
-  - @lingo.dev/_spec@0.30.1
+  - @lingo-indica.dev/_spec@0.30.1
 
 ## 0.7.34
 
 ### Patch Changes
 
 - Updated dependencies [[`82efe61`](https://github.com/lingodotdev/lingo.dev/commit/82efe6176db12cc7c5bbeb84f38bc3261f9eec4f), [`82efe61`](https://github.com/lingodotdev/lingo.dev/commit/82efe6176db12cc7c5bbeb84f38bc3261f9eec4f)]:
-  - @lingo.dev/_spec@0.30.0
+  - @lingo-indica.dev/_spec@0.30.0
 
 ## 0.7.33
 
 ### Patch Changes
 
 - Updated dependencies [[`58f3959`](https://github.com/lingodotdev/lingo.dev/commit/58f39599b3b765ad807e725b4089a5e9b11a01b2)]:
-  - @lingo.dev/_spec@0.29.0
+  - @lingo-indica.dev/_spec@0.29.0
 
 ## 0.7.32
 
 ### Patch Changes
 
 - Updated dependencies [[`fe922a4`](https://github.com/lingodotdev/lingo.dev/commit/fe922a469c2d5dac23a909a4fb67a6efd56d80d6)]:
-  - @lingo.dev/_spec@0.28.0
+  - @lingo-indica.dev/_spec@0.28.0
 
 ## 0.7.31
 
 ### Patch Changes
 
 - Updated dependencies [[`2495afd`](https://github.com/lingodotdev/lingo.dev/commit/2495afd69e23700f96e19e5bbf74e393b29c2033), [`516a79c`](https://github.com/lingodotdev/lingo.dev/commit/516a79c75501c5960ae944379f38591806ca43e2), [`2cc6114`](https://github.com/lingodotdev/lingo.dev/commit/2cc61140fccc69ab73d40c7802a2d0e018889475)]:
-  - @lingo.dev/_spec@0.27.0
+  - @lingo-indica.dev/_spec@0.27.0
 
 ## 0.7.30
 
 ### Patch Changes
 
 - Updated dependencies [[`1dbbfd2`](https://github.com/lingodotdev/lingo.dev/commit/1dbbfd2ed9f5a7e0479dc83f700fb68ee5347a18)]:
-  - @lingo.dev/_spec@0.26.6
+  - @lingo-indica.dev/_spec@0.26.6
 
 ## 0.7.29
 
@@ -237,14 +237,14 @@
 - [#596](https://github.com/lingodotdev/lingo.dev/pull/596) [`61b487e`](https://github.com/lingodotdev/lingo.dev/commit/61b487e1e059328a32c3cdf673255d9d2cd480d9) Thanks [@vrcprl](https://github.com/vrcprl)! - add new locale
 
 - Updated dependencies [[`61b487e`](https://github.com/lingodotdev/lingo.dev/commit/61b487e1e059328a32c3cdf673255d9d2cd480d9)]:
-  - @lingo.dev/_spec@0.26.5
+  - @lingo-indica.dev/_spec@0.26.5
 
 ## 0.7.28
 
 ### Patch Changes
 
 - Updated dependencies [[`743d93e`](https://github.com/lingodotdev/lingo.dev/commit/743d93e554841bbd96d23682d8aec63cb4eb3ec8)]:
-  - @lingo.dev/_spec@0.26.4
+  - @lingo-indica.dev/_spec@0.26.4
 
 ## 0.7.27
 
@@ -259,21 +259,21 @@
 - [#553](https://github.com/lingodotdev/lingo.dev/pull/553) [`95023f2`](https://github.com/lingodotdev/lingo.dev/commit/95023f2c8da3958e8582628a22bf40674f8d2317) Thanks [@vrcprl](https://github.com/vrcprl)! - Add new locales
 
 - Updated dependencies [[`95023f2`](https://github.com/lingodotdev/lingo.dev/commit/95023f2c8da3958e8582628a22bf40674f8d2317)]:
-  - @lingo.dev/_spec@0.26.3
+  - @lingo-indica.dev/_spec@0.26.3
 
 ## 0.7.25
 
 ### Patch Changes
 
 - Updated dependencies [[`9089b08`](https://github.com/lingodotdev/lingo.dev/commit/9089b085b968ff3195866e377ecf3016aa06f959)]:
-  - @lingo.dev/_spec@0.26.2
+  - @lingo-indica.dev/_spec@0.26.2
 
 ## 0.7.24
 
 ### Patch Changes
 
 - Updated dependencies [[`0b48be1`](https://github.com/lingodotdev/lingo.dev/commit/0b48be197e88dac581cc4f257789a04b43acf932)]:
-  - @lingo.dev/_spec@0.26.1
+  - @lingo-indica.dev/_spec@0.26.1
 
 ## 0.7.23
 
@@ -286,14 +286,14 @@
 ### Patch Changes
 
 - Updated dependencies [[`bafa755`](https://github.com/lingodotdev/lingo.dev/commit/bafa755d9681e93741462eb7bcf9b85073d20fd7)]:
-  - @lingo.dev/_spec@0.26.0
+  - @lingo-indica.dev/_spec@0.26.0
 
 ## 0.7.21
 
 ### Patch Changes
 
 - Updated dependencies [[`444a731`](https://github.com/lingodotdev/lingo.dev/commit/444a7319a1351e22e5666504169023b4c8a29d5f)]:
-  - @lingo.dev/_spec@0.25.3
+  - @lingo-indica.dev/_spec@0.25.3
 
 ## 0.7.20
 
@@ -306,14 +306,14 @@
 ### Patch Changes
 
 - Updated dependencies [[`ec2902e`](https://github.com/lingodotdev/lingo.dev/commit/ec2902e5dc31fd79cc3b6fbf478ed1f3c4df0345)]:
-  - @lingo.dev/_spec@0.25.2
+  - @lingo-indica.dev/_spec@0.25.2
 
 ## 0.7.18
 
 ### Patch Changes
 
 - Updated dependencies [[`beb0541`](https://github.com/lingodotdev/lingo.dev/commit/beb05411ee459461e05801a763b1fa28d288e04e)]:
-  - @lingo.dev/_spec@0.25.1
+  - @lingo-indica.dev/_spec@0.25.1
 
 ## 0.7.17
 
@@ -326,7 +326,7 @@
 ### Patch Changes
 
 - Updated dependencies [[`a096300`](https://github.com/lingodotdev/lingo.dev/commit/a0963008ea2a8bbc910b0eaeb20f4e3b3cd641a7)]:
-  - @lingo.dev/_spec@0.25.0
+  - @lingo-indica.dev/_spec@0.25.0
 
 ## 0.7.15
 
@@ -335,7 +335,7 @@
 - [#473](https://github.com/lingodotdev/lingo.dev/pull/473) [`3a99763`](https://github.com/lingodotdev/lingo.dev/commit/3a99763087512ba82955303d6f0567e813f4fa05) Thanks [@vrcprl](https://github.com/vrcprl)! - add new locales
 
 - Updated dependencies [[`3a99763`](https://github.com/lingodotdev/lingo.dev/commit/3a99763087512ba82955303d6f0567e813f4fa05)]:
-  - @lingo.dev/_spec@0.24.4
+  - @lingo-indica.dev/_spec@0.24.4
 
 ## 0.7.14
 
@@ -350,7 +350,7 @@
 - [`dc8bfc7`](https://github.com/lingodotdev/lingo.dev/commit/dc8bfc7ddc38ade768b8aa11c56669db7eb446e6) Thanks [@maxprilutskiy](https://github.com/maxprilutskiy)! - publish deps
 
 - Updated dependencies [[`dc8bfc7`](https://github.com/lingodotdev/lingo.dev/commit/dc8bfc7ddc38ade768b8aa11c56669db7eb446e6)]:
-  - @lingo.dev/_spec@0.24.3
+  - @lingo-indica.dev/_spec@0.24.3
 
 ## 0.7.12
 
@@ -359,7 +359,7 @@
 - [`6281dbd`](https://github.com/lingodotdev/lingo.dev/commit/6281dbd96bd5cfe54f194a6a1d055c8255a250de) Thanks [@maxprilutskiy](https://github.com/maxprilutskiy)! - fix sdk/spec exported types
 
 - Updated dependencies [[`6281dbd`](https://github.com/lingodotdev/lingo.dev/commit/6281dbd96bd5cfe54f194a6a1d055c8255a250de)]:
-  - @lingo.dev/_spec@0.24.2
+  - @lingo-indica.dev/_spec@0.24.2
 
 ## 0.7.11
 
@@ -368,7 +368,7 @@
 - [#419](https://github.com/lingodotdev/lingo.dev/pull/419) [`a45feb1`](https://github.com/lingodotdev/lingo.dev/commit/a45feb1d747f8fa32c42c1726953a04c174e754a) Thanks [@maxprilutskiy](https://github.com/maxprilutskiy)! - Replexica is now Lingo.dev! 🎉
 
 - Updated dependencies [[`a45feb1`](https://github.com/lingodotdev/lingo.dev/commit/a45feb1d747f8fa32c42c1726953a04c174e754a)]:
-  - @lingo.dev/_spec@0.24.1
+  - @lingo-indica.dev/_spec@0.24.1
 
 ## 0.7.10
 

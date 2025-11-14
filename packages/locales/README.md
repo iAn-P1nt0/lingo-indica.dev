@@ -1,4 +1,4 @@
-# @lingo.dev/locales
+# @lingo-indica.dev/locales
 
 A JavaScript package that helps developers work with locale codes (like "en-US" or "zh-Hans-CN") and get country/language names in different languages.
 
@@ -13,7 +13,7 @@ A JavaScript package that helps developers work with locale codes (like "en-US" 
 ## Installation
 
 ```bash
-npm install @lingo.dev/locales
+npm install @lingo-indica.dev/locales
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ import {
   getLanguageCode,
   getScriptCode,
   getRegionCode,
-} from "@lingo.dev/locales";
+} from "@lingo-indica.dev/locales";
 
 // Parse complete locale
 parseLocale("en-US"); // { language: "en", region: "US" }
@@ -47,7 +47,7 @@ import {
   isValidLanguageCode,
   isValidScriptCode,
   isValidRegionCode,
-} from "@lingo.dev/locales";
+} from "@lingo-indica.dev/locales";
 
 // Validate complete locales
 isValidLocale("en-US"); // true
@@ -70,7 +70,7 @@ import {
   getCountryName,
   getLanguageName,
   getScriptName,
-} from "@lingo.dev/locales";
+} from "@lingo-indica.dev/locales";
 
 // Get country names in different languages
 await getCountryName("US"); // "United States"

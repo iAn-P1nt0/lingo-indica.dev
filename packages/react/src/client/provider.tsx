@@ -31,8 +31,8 @@ export type LingoProviderProps<D> = {
  *
  * @example Use in a React Router application
  * ```tsx
- * import { LingoProvider } from "lingo.dev/react/client";
- * import { loadDictionary } from "lingo.dev/react/react-router";
+ * import { LingoProvider } from "lingo-indica.dev/react/client";
+ * import { loadDictionary } from "lingo-indica.dev/react/react-router";
  * import {
  *   Links,
  *   Meta,
@@ -121,7 +121,7 @@ export type LingoProviderWrapperProps<D> = {
  *
  * @example Use in a Vite application
  * ```tsx file="src/main.tsx"
- * import { LingoProviderWrapper, loadDictionary } from "lingo.dev/react/client";
+ * import { LingoProviderWrapper, loadDictionary } from "lingo-indica.dev/react/client";
  * import { StrictMode } from 'react'
  * import { createRoot } from 'react-dom/client'
  * import './index.css'

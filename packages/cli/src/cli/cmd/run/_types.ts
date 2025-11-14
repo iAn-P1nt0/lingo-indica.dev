@@ -3,7 +3,7 @@ import {
   I18nConfig,
   localeCodeSchema,
   bucketTypes,
-} from "@lingo.dev/_spec";
+} from "@lingo-indica.dev/_spec";
 import { z } from "zod";
 import { ILocalizer } from "../../localizer/_types";
 

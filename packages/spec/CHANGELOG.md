@@ -1,4 +1,4 @@
-# @lingo.dev/\_spec
+# @lingo-indica.dev/\_spec
 
 ## 0.40.2
 

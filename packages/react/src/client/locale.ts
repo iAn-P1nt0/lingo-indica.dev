@@ -28,7 +28,7 @@ export function useLingoLocale(): string | null {
  *
  * @example Set the current locale
  * ```tsx
- * import { setLingoLocale } from "lingo.dev/react/client";
+ * import { setLingoLocale } from "lingo-indica.dev/react/client";
  *
  * export function LanguageSwitcher() {
  *   const handleChange = (event: React.ChangeEvent<HTMLSelectElement>) => {

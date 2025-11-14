@@ -4,7 +4,7 @@ import { createOpenRouter } from "@openrouter/ai-sdk-provider";
 import { createOllama } from "ollama-ai-provider";
 import { createMistral } from "@ai-sdk/mistral";
 import { generateText } from "ai";
-import { LingoDotDevEngine } from "@lingo.dev/_sdk";
+import { LingoDotDevEngine } from "@lingo-indica.dev/_sdk";
 import { DictionarySchema } from "../schema";
 import _ from "lodash";
 import { getLocaleModel } from "../../../utils/locales";

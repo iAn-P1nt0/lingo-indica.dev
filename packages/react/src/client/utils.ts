@@ -15,7 +15,7 @@ import Cookies from "js-cookie";
  *
  * @example Get the current locale
  * ```tsx
- * import { getLocaleFromCookies } from "lingo.dev/react/client";
+ * import { getLocaleFromCookies } from "lingo-indica.dev/react/client";
  *
  * export function App() {
  *   const currentLocale = getLocaleFromCookies();
@@ -38,7 +38,7 @@ export function getLocaleFromCookies(): string | null {
  *
  * @example Set the current locale
  * ```tsx
- * import { setLocaleInCookies } from "lingo.dev/react/client";
+ * import { setLocaleInCookies } from "lingo-indica.dev/react/client";
  *
  * export function LanguageButton() {
  *   const handleClick = () => {

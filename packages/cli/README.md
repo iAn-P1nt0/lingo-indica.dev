@@ -38,13 +38,13 @@
 Install once:
 
 ```bash
-npm install lingo.dev
+npm install lingo-indica.dev
 ```
 
 Enable in your build config:
 
 ```js
-import lingoCompiler from "lingo.dev/compiler";
+import lingoCompiler from "lingo-indica.dev/compiler";
 
 const existingNextConfig = {};
 
@@ -62,7 +62,7 @@ Run `next build` and watch Spanish and French bundles pop out ✨
 
 ## 🇮🇳 World-Class Indic Language Support
 
-**Lingo.dev** now provides comprehensive support for all **22 scheduled languages of India**, making it the most complete i18n solution for Indian languages.
+**Lingo-Indica.dev** provides comprehensive support for all **22 scheduled languages of India**, making it the most complete i18n solution for Indian languages.
 
 ### Key Features
 
