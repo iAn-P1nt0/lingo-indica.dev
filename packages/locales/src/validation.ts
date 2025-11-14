@@ -190,6 +190,13 @@ const VALID_LANGUAGE_CODES = new Set([
   "za",
   "zh",
   "zu",
+  // 3-letter ISO 639-2/3 codes for Indic languages
+  "kok", // Konkani
+  "mni", // Manipuri
+  "sat", // Santhali
+  "mai", // Maithili
+  "brx", // Bodo
+  "doi", // Dogri
 ]);
 
 // ISO 15924 script codes (most common)

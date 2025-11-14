@@ -23,3 +23,29 @@ export {
 
 // Export async name resolution functions
 export { getCountryName, getLanguageName, getScriptName } from "./names";
+
+// Export Indic script utilities
+export {
+  INDIC_SCRIPTS,
+  INDIC_SCRIPT_INFO,
+  LANGUAGE_TO_SCRIPT_MAP,
+  getScriptForLanguage,
+  getAllScriptsForLanguage,
+  isIndicLanguage,
+  getScriptDirection,
+  hasNativeNumerals,
+  getIndicScriptName,
+} from "./indic-scripts";
+export type { IndicScriptCode, IndicScriptInfo } from "./indic-scripts";
+
+// Export Indic formatting utilities
+export {
+  toNativeNumerals,
+  fromNativeNumerals,
+  formatIndianNumber,
+  formatLakhs,
+  formatCrores,
+  formatIndianDate,
+  autoFormatIndianNumber,
+} from "./formatting/indic";
+export type { IndianDateFormatOptions } from "./formatting/indic";

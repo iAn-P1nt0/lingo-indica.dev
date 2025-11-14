@@ -213,6 +213,54 @@ const localeMap = {
   rw: ["rw-RW"],
   // Georgian (Georgia)
   ka: ["ka-GE"],
+  // Kannada (India)
+  kn: ["kn-IN"],
+  // Malayalam (India)
+  ml: ["ml-IN"],
+  // Marathi (India)
+  mr: ["mr-IN"],
+  // Gujarati (India)
+  gu: ["gu-IN"],
+  // Odia (India)
+  or: ["or-IN"],
+  // Assamese (India)
+  as: ["as-IN"],
+  // Kashmiri
+  ks: [
+    "ks-IN", // India (Devanagari)
+    "ks-Arab", // Arabic script
+    "ks-Deva", // Devanagari script
+  ],
+  // Sindhi
+  sd: [
+    "sd-PK", // Pakistan (Arabic)
+    "sd-IN", // India (Devanagari)
+    "sd-Arab", // Arabic script
+    "sd-Deva", // Devanagari script
+  ],
+  // Konkani (India)
+  kok: ["kok-IN"],
+  // Manipuri/Meitei
+  mni: [
+    "mni-IN", // India
+    "mni-Beng", // Bengali script
+    "mni-Mtei", // Meitei Mayek script
+  ],
+  // Sanskrit (India)
+  sa: ["sa-IN"],
+  // Nepali
+  ne: [
+    "ne-NP", // Nepal
+    "ne-IN", // India
+  ],
+  // Santhali (India)
+  sat: ["sat-IN"],
+  // Maithili (India)
+  mai: ["mai-IN"],
+  // Bodo (India)
+  brx: ["brx-IN"],
+  // Dogri (India)
+  doi: ["doi-IN"],
 } as const;
 
 export type LocaleCodeShort = keyof typeof localeMap;
